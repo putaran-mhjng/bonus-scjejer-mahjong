@@ -17,7 +17,7 @@ jobs:
     
     - name: Generate the sitemap
       id: sitemap
-      uses: putaran-mhjng/generate-sitemap@v1
+      uses: cicirello/generate-sitemap@v1
       with:
         base-url-path: https://putaran-mhjng.github.io/bonus-scjejer-mahjong/
     
